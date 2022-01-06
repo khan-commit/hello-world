@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> RAHIL KHAN </h1>
+   <h1> RAHIL KHAN is best </h1>
 
   
 </form>
